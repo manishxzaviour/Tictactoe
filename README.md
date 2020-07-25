@@ -1,5 +1,5 @@
 # Tictactoe
-Tictactoe v 0.1
+Tictactoe v 0.1, v 0.2
 
 
 frame.setVisible should be added at the last after adding every thing else
